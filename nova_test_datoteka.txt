@@ -1,1 +1,3 @@
 Evo je dan za test
+
+Evo jedna linija, tek tako
